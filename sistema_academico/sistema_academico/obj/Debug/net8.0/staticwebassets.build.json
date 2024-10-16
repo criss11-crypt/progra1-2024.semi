@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bUgr6oiBAwnV/IqKXSp+drekimGdCsT5Ik8St1G48ag=",
+  "Hash": "D0Km2tblw5uKOvP7qe1o46+7j6FAIoincY2bBQ4VTUg=",
   "Source": "sistema_academico",
   "BasePath": "_content/sistema_academico",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "sistema_academico\\wwwroot",
       "Source": "sistema_academico",
-      "ContentRoot": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-2024-Semi\\sistema_academico\\sistema_academico\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\criss11\\Desktop\\progra1-2024.semi\\sistema_academico\\sistema_academico\\wwwroot\\",
       "BasePath": "_content/sistema_academico",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-2024-Semi\\sistema_academico\\sistema_academico\\wwwroot\\views\\Alumno.html",
+      "Identity": "C:\\Users\\criss11\\Desktop\\progra1-2024.semi\\sistema_academico\\sistema_academico\\wwwroot\\views\\Alumno.html",
       "SourceId": "sistema_academico",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-2024-Semi\\sistema_academico\\sistema_academico\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\criss11\\Desktop\\progra1-2024.semi\\sistema_academico\\sistema_academico\\wwwroot\\",
       "BasePath": "_content/sistema_academico",
       "RelativePath": "views/Alumno.html",
       "AssetKind": "All",
