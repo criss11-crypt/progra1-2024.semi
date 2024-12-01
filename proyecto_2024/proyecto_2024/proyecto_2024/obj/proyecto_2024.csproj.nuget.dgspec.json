@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\sistema_academico\\sistema_academico\\sistema_academico.csproj": {}
+    "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\proyecto_2024\\proyecto_2024\\proyecto_2024\\proyecto_2024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\sistema_academico\\sistema_academico\\sistema_academico.csproj": {
+    "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\proyecto_2024\\proyecto_2024\\proyecto_2024\\proyecto_2024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\sistema_academico\\sistema_academico\\sistema_academico.csproj",
-        "projectName": "sistema_academico",
-        "projectPath": "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\sistema_academico\\sistema_academico\\sistema_academico.csproj",
+        "projectUniqueName": "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\proyecto_2024\\proyecto_2024\\proyecto_2024\\proyecto_2024.csproj",
+        "projectName": "proyecto_2024",
+        "projectPath": "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\proyecto_2024\\proyecto_2024\\proyecto_2024\\proyecto_2024.csproj",
         "packagesPath": "C:\\Users\\criss11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\sistema_academico\\sistema_academico\\obj\\",
+        "outputPath": "C:\\Users\\criss11\\Desktop\\Progra1-2024-Semi\\proyecto_2024\\proyecto_2024\\proyecto_2024\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,10 +50,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.10, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.10, )"
@@ -62,19 +58,11 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.10, )"
+              "version": "[8.0.11, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.6, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.9.0, )"
-            },
-            "System.ComponentModel.Annotations": {
-              "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
