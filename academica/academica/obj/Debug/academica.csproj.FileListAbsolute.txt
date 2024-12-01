@@ -1,0 +1,8 @@
+C:\Users\criss11\Desktop\Progra1-2024-Semi\academica\academica\bin\Debug\db_academica.mdf
+C:\Users\criss11\Desktop\Progra1-2024-Semi\academica\academica\bin\Debug\db_academica_log.ldf
+C:\Users\criss11\Desktop\Progra1-2024-Semi\academica\academica\obj\Debug\academica.csproj.AssemblyReference.cache
+C:\Users\criss11\Desktop\Progra1-2024-Semi\academica\academica\obj\Debug\academica.Properties.Resources.resources
+C:\Users\criss11\Desktop\Progra1-2024-Semi\academica\academica\obj\Debug\academica.csproj.GenerateResource.cache
+C:\Users\criss11\Desktop\Progra1-2024-Semi\academica\academica\obj\Debug\academica.csproj.CoreCompileInputs.cache
+C:\Users\criss11\Desktop\Progra1-2024-Semi\academica\academica\obj\Debug\academica.exe
+C:\Users\criss11\Desktop\Progra1-2024-Semi\academica\academica\obj\Debug\academica.pdb
